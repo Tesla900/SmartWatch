@@ -1,1 +1,8 @@
-Record=TopLevelDocument|FileName=Accelerometer.SchDoc
+Record=TopLevelDocument|FileName=Top_level.SchDoc
+Record=SheetSymbol|SourceDocument=Top_level.SchDoc|Designator=M1|SchDesignator=M1|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_level.SchDoc|Designator=M2|SchDesignator=M2|FileName=Accelerometer.SchDoc|SymbolType=Normal|RawFileName=Accelerometer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_level.SchDoc|Designator=M3|SchDesignator=M3|FileName=Charger+Main_Power.SchDoc|SymbolType=Normal|RawFileName=Charger+Main_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_level.SchDoc|Designator=M4|SchDesignator=M4|FileName=Connectors.SchDoc|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_level.SchDoc|Designator=M5|SchDesignator=M5|FileName=LTE+GPS.SchDoc|SymbolType=Normal|RawFileName=LTE+GPS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_level.SchDoc|Designator=M6|SchDesignator=M6|FileName=MCU_Power.SchDoc|SymbolType=Normal|RawFileName=MCU_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_level.SchDoc|Designator=M7|SchDesignator=M7|FileName=LTE+GPS_Power.SchDoc|SymbolType=Normal|RawFileName=LTE+GPS_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
